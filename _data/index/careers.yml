@@ -38,6 +38,6 @@
     detail: 
     i18n: company_a_date
   job:
-    detail: Web Developer with Wordpress
+    detail: Web Developer with Wordpress .
     i18n: company_a_job
   icon: fa-plus-square
