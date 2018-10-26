@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: 
+    detail: Data Analyst
     i18n: company_a
   desc:
     detail: 
@@ -18,7 +18,7 @@
     detail: 
     i18n: company_a
   desc:
-    detail: 
+    detail: SEO
     i18n: company_a_desc
   date:
     detail: 
@@ -32,7 +32,7 @@
     detail: 
     i18n: company_a
   desc:
-    detail: 
+    detail: Web Developer
     i18n: company_a_desc
   date:
     detail: 
