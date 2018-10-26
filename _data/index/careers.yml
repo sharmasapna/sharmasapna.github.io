@@ -4,10 +4,40 @@
     detail: 
     i18n: company_a
   desc:
+    detail: 
+    i18n: company_a_desc
+  date:
+    detail: 
+    i18n: company_a_date
+  job:
     detail: Data Analyst
-    i18n: company_a_desc
-    icon: fa-plus-square
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: 
+    i18n: company_a
   desc:
-    detail: SEO
+    detail: 
     i18n: company_a_desc
-    icon: fa-plus-square
+  date:
+    detail: 
+    i18n: company_a_date
+  job:
+    detail: SEO
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: 
+    i18n: company_a
+  desc:
+    detail: 
+    i18n: company_a_desc
+  date:
+    detail: 
+    i18n: company_a_date
+  job:
+    detail: Web Developer with Wordpress
+    i18n: company_a_job
+  icon: fa-plus-square
