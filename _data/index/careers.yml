@@ -6,11 +6,8 @@
   desc:
     detail: Data Analyst
     i18n: company_a_desc
-  
-   
-  job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
-
-  icon: fa-plus-square
+    icon: fa-plus-square
+  desc:
+    detail: SEO
+    i18n: company_a_desc
+    icon: fa-plus-square
