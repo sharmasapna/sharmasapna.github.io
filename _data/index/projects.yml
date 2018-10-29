@@ -1,12 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Decision taker for Credit card Issuance
+- name: Decision taker for Credit card Issuance by Bank
   i18n: jalpc
   gh_user: Sapna Sharma
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is done on Coursera
+  desc: This project is done on Coursera.
 
 - name: Titanic prediction model
   i18n: cpython
