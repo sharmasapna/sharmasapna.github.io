@@ -37,4 +37,4 @@ Step 4: Enter into repository directory and edit following file list:
 
 	* **_data/blog.yml**: edit navbar(categories) of blog page, if you have different/more blog page, copy `blog/python.html` and change it to your category HTML file, and edit **Python**, **/python/** to your category name at items **title** and **permalink**, make sure title is the same as permalink but capitalized first letter(except HTML).
 
-
+..
