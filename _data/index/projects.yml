@@ -4,14 +4,14 @@
 - name: Decision taker for Credit card Issuance by Bank
   i18n: jalpc
   gh_user: Sapna Sharma
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is done on Coursera.
+  repo: Excel
+  img: /static/assets/img/landing/excel_icon.png
+  desc: This project is done on Coursera in Excel.
 
 - name: Titanic prediction model
   i18n: cpython
   gh_user: Sapna Sharma
-  repo: cpython
+  repo: Python
   img: /static/assets/img/landing/python.png
   desc: This project is done in kaggle. Coding done in Python
 
