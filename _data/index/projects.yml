@@ -29,7 +29,7 @@
   i18n: cpython
   gh_user: Sapna Sharma
   repo: Python
-  img: /static/assets/img/landing/edx_icon.jpg
+  img: /static/assets/img/landing/edx_icon.png
   desc: Introduction to Python for Data Science
 
        
@@ -37,5 +37,5 @@
   i18n: cpython
   gh_user: Sapna Sharma
   repo: Python
-  img: /static/assets/img/landing/udemy_icon.jpg
+  img: /static/assets/img/landing/udemy_icon.png
   desc: SEO 2018 Training The Complete SEO Course for WordPress Websites
