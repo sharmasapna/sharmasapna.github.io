@@ -14,4 +14,14 @@
   repo: Python
   img: /static/assets/img/landing/python.png
   desc: This project is done in kaggle. Coding done in Python
+  
+  - name: Certification courses 
+  i18n: cpython
+  gh_user: Sapna Sharma
+  repo: Python
+  img: /static/assets/img/landing/coursera_icon.jpg
+  desc: Mastering Data Analysis in Excel 
+        Business Metrics for Data-Driven Companies
+        Introduction to Search Engine Optimization
+        Problem Solving with Excel
 
