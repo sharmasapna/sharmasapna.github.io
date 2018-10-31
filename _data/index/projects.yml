@@ -15,7 +15,7 @@
   img: /static/assets/img/landing/python.png
   desc: This project is done in kaggle. Coding done in Python
   
- - name: Certification courses 
+- name: Certification courses 
   i18n: cpython
   gh_user: Sapna Sharma
   repo: Python
