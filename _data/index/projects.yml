@@ -25,3 +25,17 @@
         Introduction to Search Engine Optimization,
         Problem Solving with Excel
 
+- name: edX Online Certification courses 
+  i18n: cpython
+  gh_user: Sapna Sharma
+  repo: Python
+  img: /static/assets/img/landing/edx_icon.jpg
+  desc: Introduction to Python for Data Science
+
+       
+- name: Udemy Online Certification courses 
+  i18n: cpython
+  gh_user: Sapna Sharma
+  repo: Python
+  img: /static/assets/img/landing/udemy_icon.jpg
+  desc: SEO 2018 Training: The Complete SEO Course for WordPress Websites
