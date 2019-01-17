@@ -12,7 +12,7 @@
   i18n: Visual FoxPro
   gh_user: Sapna Sharma
   repo: VP
-  img: /static/assets/img/landing/udemy_icon.png
+  img: /static/assets/img/landing/vp.png
   desc:Appliction to generate KPI of all Stations
 
 - name: Titanic prediction model
