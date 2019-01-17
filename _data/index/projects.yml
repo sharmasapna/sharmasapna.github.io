@@ -7,6 +7,13 @@
   repo: Excel
   img: /static/assets/img/landing/excel_icon.png
   desc: This project is done on Coursera in Excel.
+  
+- name: Application for monitering KPI
+  i18n: Visual FoxPro
+  gh_user: Sapna Sharma
+  repo: VP
+  img: /static/assets/img/landing/udemy_icon.png
+  desc:Appliction to generate KPI of all Stations
 
 - name: Titanic prediction model
   i18n: cpython
