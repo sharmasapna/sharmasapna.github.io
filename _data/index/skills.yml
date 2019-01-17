@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects:  Motivation,GitHub, HTML5, Python,  Java,  Excel, Wordpress, SEO, Kaggle , Online courses
-percentage: 90,      40,     55,    50,      40,    90,    40,        40,   30,      60
+aspects:  Motivation,GitHub, HTML5, Python,  Java,  Excel, Wordpress, SEO, Kaggle , Online courses,Visual Foxpro,R
+percentage: 90,      40,     55,    60,      50,    90,    40,        40,   30,      60,               80,       10
