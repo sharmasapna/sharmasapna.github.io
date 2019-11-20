@@ -1,7 +1,7 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Decision maker for Credit card Issued by Bank
+- name: Credit card Fraud Detection and Maximize Profitability
   i18n: jalpc
   gh_user: Sapna Sharma
   repo: Excel
