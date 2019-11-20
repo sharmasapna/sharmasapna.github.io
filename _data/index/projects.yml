@@ -37,7 +37,7 @@
   gh_user: Sapna Sharma
   repo: mywebsite
   img: /static/assets/img/landing/web.png
-  desc: Website developed in Wordpress
+  desc: www.losefat.co.in
 
 - name: edX Online Certification courses 
   i18n: cpython
