@@ -37,10 +37,7 @@
   gh_user: Sapna Sharma
   repo: www.losefat.co.in
   img: /static/assets/img/landing/web.png
-  desc: Mastering Data Analysis in Excel,
-        Business Metrics for Data-Driven Companies,
-        Introduction to Search Engine Optimization,
-        Problem Solving with Excel
+  desc: Website developed in Wordpress
 
 - name: edX Online Certification courses 
   i18n: cpython
