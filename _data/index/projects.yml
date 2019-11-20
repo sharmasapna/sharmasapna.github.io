@@ -4,7 +4,7 @@
 - name: Credit card Fraud Detection and Maximize Profitability
   i18n: jalpc
   gh_user: Sapna Sharma
-  repo: https://github.com/sharmasapna/Credit-Card-risk-detection-and-profitability
+  repo: Credit-Card-risk-detection-and-profitability
   img: /static/assets/img/landing/excel_icon.png
   desc: This project is done on Coursera in Excel.
 
