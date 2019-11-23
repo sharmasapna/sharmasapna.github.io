@@ -34,10 +34,10 @@
   gh_user: sharmasapna
   repo: coursera-courses-certifications
   img: /static/assets/img/landing/coursera_icon.jpg
-  desc: *Mastering Data Analysis in Excel,
-        *Business Metrics for Data-Driven Companies,
-        *Introduction to Search Engine Optimization,
-        *Problem Solving with Excel
+  desc: Mastering Data Analysis in Excel,
+        Business Metrics for Data-Driven Companies,
+        Introduction to Search Engine Optimization,
+        Problem Solving with Excel
         
 - name: Application for monitering KPI
   i18n: Visual FoxPro
