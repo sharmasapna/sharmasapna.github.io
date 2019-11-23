@@ -34,25 +34,10 @@
   gh_user: sharmasapna
   repo: coursera-courses-certifications
   img: /static/assets/img/landing/coursera_icon.jpg
-  desc: Mastering Data Analysis in Excel,
-        Business Metrics for Data-Driven Companies,
-        Introduction to Search Engine Optimization,
-        Problem Solving with Excel
-
-- name: edX Online Certification courses 
-  i18n: cpython
-  gh_user: sharmasapna
-  repo: Python
-  img: /static/assets/img/landing/edx_icon.png
-  desc: Introduction to Python for Data Science
-
-       
-- name: Udemy Online Certification courses 
-  i18n: cpython
-  gh_user: sharmasapna
-  repo: Python
-  img: /static/assets/img/landing/udemy_icon.png
-  desc: SEO 2018 Training The Complete SEO Course for WordPress Websites
+  desc: *Mastering Data Analysis in Excel,
+        *Business Metrics for Data-Driven Companies,
+        *Introduction to Search Engine Optimization,
+        *Problem Solving with Excel
   
 - name: Application to process , store and generate report for OCB283 switch
   i18n: Visual FoxPro
