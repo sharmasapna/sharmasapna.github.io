@@ -1,6 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Enrolled in Masters in Data Science
+    i18n: company_a
+  desc:
+    detail: 
+    i18n: Northeastern University
+  date:
+    detail: 
+    i18n: company_a_date
+  job:
+    detail: Data Analyst
+    i18n: company_a_job
+  icon: fa-plus-square
+- name:
     detail: Data Analyst
     i18n: company_a
   desc:
