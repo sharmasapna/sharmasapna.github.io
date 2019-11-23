@@ -24,8 +24,8 @@
   
 - name: Coursera Online Certification courses 
   i18n: cpython
-  gh_user: Sapna Sharma
-  repo: Python
+  gh_user: sharmasapna
+  repo: coursera-courses-certifications
   img: /static/assets/img/landing/coursera_icon.jpg
   desc: Mastering Data Analysis in Excel,
         Business Metrics for Data-Driven Companies,
