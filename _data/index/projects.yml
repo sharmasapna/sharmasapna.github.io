@@ -22,10 +22,10 @@
   img: /static/assets/img/landing/web.png
   desc: www.losefat.co.in
   
-- name: Application for monitering KPI
+- name: Application to process , store and generate report for OCB283 switch
   i18n: Visual FoxPro
   gh_user: sharmasapna
-  repo: VP
+  repo: ochla
   img: /static/assets/img/landing/vp_icon.png
   desc: Appliction to generate KPI of all Stations
   
@@ -38,10 +38,12 @@
         *Business Metrics for Data-Driven Companies,
         *Introduction to Search Engine Optimization,
         *Problem Solving with Excel
-  
-- name: Application to process , store and generate report for OCB283 switch
+        
+- name: Application for monitering KPI
   i18n: Visual FoxPro
   gh_user: sharmasapna
-  repo: ochla
+  repo: VP
   img: /static/assets/img/landing/vp_icon.png
   desc: Appliction to generate KPI of all Stations
+  
+
