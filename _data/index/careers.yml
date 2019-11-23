@@ -12,7 +12,7 @@
   job:
     detail: Student as Northeastern University
     i18n: company_a_job
-  icon: /static/assets/img/landing/neu_icon.png
+  icon: fa-plus-square
 - name:
     detail: Data Analyst
     i18n: company_a
