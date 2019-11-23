@@ -15,6 +15,13 @@
   img: /static/assets/img/landing/python.png
   desc: This project is done in kaggle. Coding done in Python
   
+- name: Website:www.losefat.co.in
+  i18n: cpython
+  gh_user: sharmasapna
+  repo: mywebsite
+  img: /static/assets/img/landing/web.png
+  desc: www.losefat.co.in
+  
 - name: Application for monitering KPI
   i18n: Visual FoxPro
   gh_user: sharmasapna
@@ -31,13 +38,6 @@
         Business Metrics for Data-Driven Companies,
         Introduction to Search Engine Optimization,
         Problem Solving with Excel
-
-- name: Website:www.losefat.co.in
-  i18n: cpython
-  gh_user: sharmasapna
-  repo: mywebsite
-  img: /static/assets/img/landing/web.png
-  desc: www.losefat.co.in
 
 - name: edX Online Certification courses 
   i18n: cpython
