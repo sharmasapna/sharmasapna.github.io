@@ -10,14 +10,14 @@
 
 - name: Titanic prediction model
   i18n: cpython
-  gh_user: Sapna Sharma
-  repo: Python
+  gh_user: sharmasapna
+  repo: titanic
   img: /static/assets/img/landing/python.png
   desc: This project is done in kaggle. Coding done in Python
   
 - name: Application for monitering KPI
   i18n: Visual FoxPro
-  gh_user: Sapna Sharma
+  gh_user: sharmasapna
   repo: VP
   img: /static/assets/img/landing/vp_icon.png
   desc: Appliction to generate KPI of all Stations
@@ -34,14 +34,14 @@
 
 - name: Website:www.losefat.co.in
   i18n: cpython
-  gh_user: Sapna Sharma
+  gh_user: sharmasapna
   repo: mywebsite
   img: /static/assets/img/landing/web.png
   desc: www.losefat.co.in
 
 - name: edX Online Certification courses 
   i18n: cpython
-  gh_user: Sapna Sharma
+  gh_user: sharmasapna
   repo: Python
   img: /static/assets/img/landing/edx_icon.png
   desc: Introduction to Python for Data Science
@@ -49,7 +49,7 @@
        
 - name: Udemy Online Certification courses 
   i18n: cpython
-  gh_user: Sapna Sharma
+  gh_user: sharmasapna
   repo: Python
   img: /static/assets/img/landing/udemy_icon.png
   desc: SEO 2018 Training The Complete SEO Course for WordPress Websites
