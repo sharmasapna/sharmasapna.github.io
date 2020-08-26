@@ -29,6 +29,7 @@
   img: /static/assets/img/landing/python.png
   desc: This project is done in kaggle. Coding done in Python . Achieved 77.5% accuracy with random forest regressor.
   
+  
 - name: Website:www.losefat.co.in
   i18n: cpython
   gh_user: sharmasapna
