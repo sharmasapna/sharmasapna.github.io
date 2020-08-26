@@ -1,6 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-
+- name:
+    detail: fellowship.ai  
+    i18n: company_a
+  desc:
+    detail: Fellow at fellowship.ai
+    i18n: 
+  date: 01-05-2020 to 30-08-2020
+    detail: 
+    i18n: company_a_date
+  job:
+    detail: Student at  Northeastern University
+    i18n: company_a_job
+  icon: fa-plus-square
+  
 - name:
     detail: Teaching Assistant  
     i18n: company_a
