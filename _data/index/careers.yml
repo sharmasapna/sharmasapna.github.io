@@ -1,5 +1,6 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
 - name:
     detail: Teaching Assistant  
     i18n: company_a
@@ -13,6 +14,7 @@
     detail: Student at  Northeastern University
     i18n: company_a_job
   icon: fa-plus-square
+  
 - name:
     detail: Pursuing  Masters in Data Science
     i18n: company_a
