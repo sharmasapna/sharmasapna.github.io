@@ -8,6 +8,13 @@
   img: /static/assets/img/landing/python.png
   desc: A project to classify wound tissue.
   
+- name: Image Visualization
+  i18n: jalpc
+  gh_user: sharmasapna
+  repo: Image-Visualization
+  img: /static/assets/img/landing/python.png
+  desc: A project to do Image Visualization using PCA and t-SNE. Image segmentation with K-means clustering, GMM, Hierarchical clustering
+  
 - name: Credit card Fraud Detection and Maximize Profitability
   i18n: jalpc
   gh_user: sharmasapna
