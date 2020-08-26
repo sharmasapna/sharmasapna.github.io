@@ -29,19 +29,19 @@
   img: /static/assets/img/landing/python.png
   desc: This project is done in kaggle. Coding done in Python . Achieved 77.5% accuracy with random forest regressor.
   
-- name: Credit card Fraud Detection and Maximize Profitability
-  i18n: jalpc
-  gh_user: sharmasapna
-  repo: Credit-Card-risk-detection-and-profitability
-  img: /static/assets/img/landing/excel_icon.png
-  desc: This project is done on Coursera in Excel to predict whether the new customer will be a defaulter or not.
-  
 - name: Website:www.losefat.co.in
   i18n: cpython
   gh_user: sharmasapna
   repo: www.losefat.co.in
   img: /static/assets/img/landing/web.png
   desc: www.losefat.co.in
+  
+- name: Credit card Fraud Detection and Maximize Profitability
+  i18n: jalpc
+  gh_user: sharmasapna
+  repo: Credit-Card-risk-detection-and-profitability
+  img: /static/assets/img/landing/excel_icon.png
+  desc: This project is done on Coursera in Excel to predict whether the new customer will be a defaulter or not.
   
 - name: Application to process , store and generate report for OCB283 switch
   i18n: Visual FoxPro
