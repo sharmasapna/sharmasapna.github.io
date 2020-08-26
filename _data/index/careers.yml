@@ -23,7 +23,7 @@
     detail: 
     i18n: company_a_date
   job:
-    detail: Student as Northeastern University
+    detail: Student at Northeastern University
     i18n: company_a_job
   icon: fa-plus-square
 - name:
