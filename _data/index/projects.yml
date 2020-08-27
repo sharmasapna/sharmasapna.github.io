@@ -22,7 +22,7 @@
   img: /static/assets/img/landing/python.png
   desc: A project to do Image Visualization using t-SNE dimentionality reduction using PCA and Image segmentation with K-means clustering, GMM, Hierarchical clustering.
   
-- name: Titanic Disaster: Survival prediction and EDA
+- name: Titanic Disaster- Survival prediction and EDA
   i18n: cpython
   gh_user: sharmasapna
   repo: titanic
