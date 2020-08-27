@@ -8,10 +8,10 @@
     detail: 
     i18n: 
   date:
-    detail: 01-05-2020 to 30-08-2020
+    detail: Machine Learning Fellow at fellowship.ai
     i18n: company_a_date
   job:
-    detail: Machine Learning Fellow at fellowship.ai
+    detail: 01-05-2020 to 30-08-2020
     i18n: company_a_job
   icon: fa-plus-square
 - name:
