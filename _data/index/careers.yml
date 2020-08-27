@@ -29,13 +29,13 @@
   icon: fa-plus-square
   
 - name:
-    detail: Pursuing  Masters in Data Science
+    detail: Northeastern University
     i18n: company_a
   desc:
     detail: 
     i18n: Northeastern University
   date:
-    detail: 
+    detail: Pursuing  Masters in Data Science
     i18n: company_a_date
   job:
     detail: Student at Northeastern University
