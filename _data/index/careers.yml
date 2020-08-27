@@ -67,16 +67,3 @@
     detail: Web Developer
     i18n: company_a_job
   icon: fa-plus-square
-- name:
-    detail: SEO
-    i18n: company_a
-  desc:
-    detail: 
-    i18n: company_a_desc
-  date:
-    detail: 
-    i18n: company_a_date
-  job:
-    detail: SEO
-    i18n: company_a_job
-  icon: fa-plus-square
