@@ -7,7 +7,7 @@
   desc:
     detail: Fellow at fellowship.ai
     i18n: 
-  date: 01-05-2020 to 30-08-2020
+  date:
     detail: 
     i18n: company_a_date
   job:
@@ -20,13 +20,14 @@
   desc:
     detail: DS2000 Programming with Data
     i18n: Northeastern University
-  date: 01-01-2020 to 30-04-2020
-    detail: 
+  date: 
+    detail: 01-01-2020 to 30-04-2020
     i18n: company_a_date
   job:
     detail: Student at  Northeastern University
     i18n: company_a_job
   icon: fa-plus-square
+  
 - name:
     detail: Pursuing  Masters in Data Science
     i18n: company_a
