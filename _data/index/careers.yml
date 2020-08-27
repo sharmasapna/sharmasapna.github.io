@@ -18,13 +18,13 @@
     detail: Northeastern University  
     i18n: company_a
   desc:
-    detail: Spring 
+    detail: 
     i18n: 
   date: 
     detail: Teaching Assistant
     i18n: company_a_date
   job:
-    detail: DS2000 Programming with Data
+    detail: DS2000 Programming with Data (01-01-2020 to 30-04-2020)
     i18n: company_a_job
   icon: fa-plus-square
   
