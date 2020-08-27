@@ -5,13 +5,13 @@
     detail: fellowship.ai  
     i18n: company_a
   desc:
-    detail: Machine Learning Fellow at fellowship.ai
+    detail: 
     i18n: 
   date:
     detail: 01-05-2020 to 30-08-2020
     i18n: company_a_date
   job:
-    detail: Student at Northeastern University
+    detail: Machine Learning Fellow at fellowship.ai
     i18n: company_a_job
   icon: fa-plus-square
 - name:
