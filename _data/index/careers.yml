@@ -18,10 +18,10 @@
     detail: Teaching Assistant  
     i18n: company_a
   desc:
-    detail: DS2000 Programming with Data
+    detail: Spring 2020 DS2000 Programming with Data
     i18n: Northeastern University
   date: 
-    detail: Spring 2020
+    detail: DS2000 Programming with Data
     i18n: company_a_date
   job:
     detail: Student at  Northeastern University
