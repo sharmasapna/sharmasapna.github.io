@@ -41,9 +41,9 @@
 - name: Website:www.losefat.co.in
   i18n: cpython
   gh_user: sharmasapna
-  repo: www.losefat.co.in
+  repo: mywebsite
   img: /static/assets/img/landing/web.png
-  desc: www.losefat.co.in
+  desc: www.losefat.co.in ( A website developed in wordpress) Performed SEO and content writing.
   
 - name: Credit card Fraud Detection and Maximize Profitability
   i18n: jalpc
