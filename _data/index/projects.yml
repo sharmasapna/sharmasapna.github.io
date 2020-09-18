@@ -14,7 +14,7 @@
   gh_user: sharmasapna
   repo: topic_modelling
   img: /static/assets/img/landing/python.png
-  desc: A project to find the various topics being discussed in meetings.
+  desc: A project to find the various topics being discussed in meetings.   ●	Meetings’ topic modelling (Latent Dirichlet Allocation and guided LDA)
   
 - name: Image Classification (fastai)
   i18n: jalpc
