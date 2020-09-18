@@ -16,10 +16,10 @@ author:  # change following line to your infomation.
   last_name: Sharma  # Be used at index page about me section.
   avatar: /static/assets/img/landing/Sapna_profile_pic.png  # upload your avatar at directory and edit it.
   github_username: sharmasapna  # Leave blank if you don't have now
-  linkedin_id:  # Leave blank if you don't have now
+  linkedin_id: https://www.linkedin.com/in/sapnasharma22/
   facebook_username:  # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
-  email:   # Leave blank if you don't have now
+  email: sharma.sap@northeastern.edu
   cv:  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I aspire to be a data scientist !  # Describe yourself.
+  desc: Pursuing MAster's in  Data Science at Northestern University. Neural Networks , Deep Learning and Natural Language Processing are my new favorites !  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
