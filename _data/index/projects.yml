@@ -4,7 +4,7 @@
 - name: House Price Prediction
   i18n: jalpc
   gh_user: sharmasapna
-  repo: house_price_prediction
+  repo: house-price-prediction
   img: /static/assets/img/landing/python.png
   desc: •	Performed exploratory data analysis, pre-processing and feature engineering for more than 70 features for model building   • Tuned hyperparameters of XGBoost regressor and achieved an RMSE score of 13.439%
 
