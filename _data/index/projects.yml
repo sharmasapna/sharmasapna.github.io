@@ -12,7 +12,7 @@
 - name: Meeting Topic Modelling (LDA)
   i18n: jalpc
   gh_user: sharmasapna
-  repo: topic-modelling
+  repo: topic_modelling
   img: /static/assets/img/landing/python.png
   desc: A project to find the various topics being discussed in meetings.
   
