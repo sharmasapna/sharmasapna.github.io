@@ -1,6 +1,15 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: House Price Prediction
+  i18n: jalpc
+  gh_user: sharmasapna
+  repo: house-price-prediction
+  img: /static/assets/img/landing/python.png
+  desc: •	Performed exploratory data analysis, pre-processing and feature engineering for more than 70 features for model building
+•	Tuned hyperparameters of XGBoost regressor and achieved an RMSE score of 13.439%
+
+  
 - name: Meeting Topic Modelling (LDA)
   i18n: jalpc
   gh_user: sharmasapna
