@@ -6,7 +6,7 @@
   gh_user: sharmasapna
   repo: house-price-prediction
   img: /static/assets/img/landing/python.png
-  desc: •	Performed exploratory data analysis, pre-processing and feature engineering for more than 70 features for model building   • Tuned hyperparameters of XGBoost regressor and achieved an RMSE score of 13.439%
+  desc: ● Performed exploratory data analysis, pre-processing and feature engineering for more than 70 features for model building   ● Tuned hyperparameters of XGBoost regressor and achieved an RMSE score of 13.439%
 
   
 - name: Meeting Topic Modelling (LDA)
@@ -14,14 +14,14 @@
   gh_user: sharmasapna
   repo: topic_modelling
   img: /static/assets/img/landing/python.png
-  desc: ●	Meetings’ topic modelling (Latent Dirichlet Allocation and guided LDA) Loading data. Performed Data Cleaning,Data transformation(Corpus and Dictionary),Base Model Performance,Hyperparameter Tuning,Final Model,Visualize Results,Testing on Unseen Document
+  desc: ●	Meetings’ topic modelling (Latent Dirichlet Allocation and guided LDA)●	Performed Data Cleaning,Data transformation(Corpus and Dictionary),Base Model Performance,Hyperparameter Tuning,Final Model,Visualize Results,Testing on Unseen Document
   
 - name: Image Classification (fastai)
   i18n: jalpc
   gh_user: sharmasapna
   repo: Image-classification-with-resnet
   img: /static/assets/img/landing/python.png
-  desc: A project to classify wound tissue.
+  desc: ● A project to classify wound tissue. ●	Wound Tissue Analysis (Web Scraping and training models using fastai library and resnet models)
   
 - name: Image Visualization
   i18n: jalpc
