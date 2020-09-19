@@ -8,16 +8,9 @@
     detail: 
     i18n: 
   date:
-    detail: Data Science Fellow at fellowship.ai Healthcare (Deep Learning, Python)
-•	 Deployed end to end Wound Tissue Classification App using resnet models with an accuracy of 89%
-•	 Scraped more than 800 images from google search engine for database preparation for 7 wound types
-Virtual Meeting Room Analytics (Computer Vision, NLP, Python, OpenCV)
-•	Developed pipeline for Speaker Diarization by video and audio of a zoom meeting with an accuracy of 50%
-•	Compiled meeting summary based on word frequency and sentence score giving about 50% accuracy
-•	Explored Topic modelling using Latent Dirichlet Allocation, guided LDA for meeting summarization
-    i18n: company_a_date
+    detail: Deployed end to end Wound Tissue Classification| Developed pipeline for Speaker Diarization by video and audio of a zoom meeting
   job:
-    detail: 01-05-2020 to 30-08-2020 
+    detail: Data Science Fellow at fellowship.ai (01-05-2020 to 30-08-2020 )
 
     i18n: company_a_job
   icon: fa-plus-square
