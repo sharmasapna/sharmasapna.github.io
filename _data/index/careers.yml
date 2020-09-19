@@ -4,13 +4,14 @@
 - name:
     detail: Fellowship.AI 
     i18n: company_a
+    job:
+      detail: Data Science Fellow at fellowship.ai (01-05-2020 to 30-08-2020 )
   desc:
     detail: 
     i18n: 
   date:
     detail: Deployed end to end Wound Tissue Classification| Developed pipeline for Speaker Diarization by video and audio of a zoom meeting
-  job:
-    detail: Data Science Fellow at fellowship.ai (01-05-2020 to 30-08-2020 )
+
 
     i18n: company_a_job
   icon: fa-plus-square
