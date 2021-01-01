@@ -13,7 +13,7 @@
   gh_user: sharmasapna
   repo: airbnb-analysis-using-causal-inference
   img: /static/assets/img/landing/python.png
-  desc: ● •	 Applied Causal Inference model with pyro to calculate the return of investment of hosts that list their properties on Airbnb on the basis of location , number of bedrooms, number of bathrooms and mobility score
+  desc: ● Applied Causal Inference model with pyro to calculate the return of investment of hosts that list their properties on Airbnb on the basis of location , number of bedrooms, number of bathrooms and mobility score
   
 - name: House Price Prediction
   i18n: jalpc
