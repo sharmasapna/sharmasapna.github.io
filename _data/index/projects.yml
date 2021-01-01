@@ -1,6 +1,7 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
 - name: Credit Card Fraud Detection
   i18n: jalpc
   gh_user: sharmasapna
@@ -8,7 +9,7 @@
   img: /static/assets/img/landing/python.png
   desc: ● Explored models like Decision Trees, Logistic Regression, SVM, XGBoost, Random Forest, ANN   ● Best Performance achieved by XGBoost classifier with a Precision of 0.36, Recall of 0.78, f1-score of 0.49
 
- - name: Airbnb Analysis using Causal Modelling in Machine Learning
+- name: Airbnb Analysis using Causal Modelling in Machine Learning
   i18n: jalpc
   gh_user: sharmasapna
   repo: airbnb-analysis-using-causal-inference
