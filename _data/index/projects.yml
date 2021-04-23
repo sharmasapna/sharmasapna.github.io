@@ -37,7 +37,7 @@
   gh_user: sharmasapna
   repo: topic_modelling
   img: /static/assets/img/landing/python.png
-  desc: ●	Meetings’ topic modelling (Latent Dirichlet Allocation and guided LDA)●	Performed Data Cleaning,Data transformation(Corpus and Dictionary),Base Model Performance,Hyperparameter Tuning,Final Model,Visualize Results,Testing on Unseen Document
+  desc: ●	Meetings’ topic modelling (LDA)●	Performed Data Cleaning,Data transformation,Hyperparameter Tuning,Visualize Results,Testing on Unseen Document
   
 - name: Image Classification (fastai)
   i18n: jalpc
