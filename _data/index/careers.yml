@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items  
 - name:
+    detail: auxi.ai 
+    i18n: company_a
+  desc:
+    detail: 
+    i18n: 
+  date: 
+    detail: Machine Learning Intern
+    i18n: company_a_date
+  job:
+    detail: Working on LayoutGANs to to automate slide formatting and manual corrections in business presentations (01-09-2020 - 31-12-2020) 
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: Northeastern University  
     i18n: company_a
   desc:
@@ -10,7 +24,7 @@
     detail: Teaching Assistant
     i18n: company_a_date
   job:
-    detail: DS2000 An introduction to programming for data scientists.                           (01-09-2020 - present) 
+    detail: DS2000 An introduction to programming for data scientists.                           (01-09-2020 - 31-12-2020) 
     i18n: company_a_job
   icon: fa-plus-square
 
