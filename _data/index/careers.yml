@@ -24,8 +24,7 @@
     detail: Teaching Assistant
     i18n: company_a_date
   job:
-    detail: DS2000 An introduction to programming for data scientists                          
-    (01-09-2020 - 31-12-2020) 
+    detail: DS2000 An introduction to programming for data scientists (01-09-2020 - 31-12-2020) 
     i18n: company_a_job
   icon: fa-plus-square
   
@@ -65,7 +64,7 @@
     detail: 
     i18n: Northeastern University
   date:
-    detail: Pursuing  Masters in Data Science |Analysis of Algorithms |       Linear Algebra and Probability | Machine Learning, Introduction to Data Management and Processing 
+    detail: Pursuing  Masters in Data Science |Deep Learning |Machine Learning |       Linear Algebra and Probability | Introduction to Data Management and Processing |Analysis of Algorithms
     i18n: company_a_date
   job:
     detail: Student at Northeastern University
