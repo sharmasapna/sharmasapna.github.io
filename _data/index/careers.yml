@@ -10,7 +10,7 @@
     detail: Machine Learning Intern
     i18n: company_a_date
   job:
-    detail: Working on LayoutGANs to to automate slide formatting and manual corrections in business presentations (01-09-2020 - 31-12-2020) 
+    detail: Working on LayoutGANs to to automate slide formatting and manual corrections in business presentations (01-02-2021 - present) 
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -24,7 +24,7 @@
     detail: Teaching Assistant
     i18n: company_a_date
   job:
-    detail: DS2000 An introduction to programming for data scientists.                           (01-09-2020 - 31-12-2020) 
+    detail: DS2000 An introduction to programming for data scientists.                                (01-09-2020 - 31-12-2020) 
     i18n: company_a_job
   icon: fa-plus-square
 
