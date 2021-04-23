@@ -27,21 +27,22 @@
     detail: DS2000 An introduction to programming for data scientists.                                (01-09-2020 - 31-12-2020) 
     i18n: company_a_job
   icon: fa-plus-square
-
+  
 - name:
-    detail: Fellowship.AI 
+    detail: Fellowship.AI  
     i18n: company_a
-    job:
-      detail: Data Science Fellow at fellowship.ai                         (01-05-2020 to 30-08-2020 )
   desc:
     detail: 
     i18n: 
-  date:
-    detail: Deployed end to end Wound Tissue Classification|                Developed pipeline for Speaker Diarization by video and audio of a zoom meeting
-
+  date: 
+    detail: Machine Learning Fellow
+    i18n: company_a_date
+  job:
+    detail: eployed end to end Wound Tissue Classification|                Developed pipeline for Speaker Diarization by video and audio of a zoom meeting (01-05-2020 to 30-08-2020 )
 
     i18n: company_a_job
   icon: fa-plus-square
+
 - name:
     detail: Northeastern University  
     i18n: company_a
@@ -69,6 +70,7 @@
     detail: Student at Northeastern University
     i18n: company_a_job
   icon: fa-plus-square
+  
 - name:
     detail: Data Analyst
     i18n: company_a
