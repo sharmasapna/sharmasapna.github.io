@@ -7,7 +7,7 @@
   gh_user: sharmasapna
   repo: artistic-style-transfer-with-neural-net
   img: /static/assets/img/landing/python.png
-  desc: ● Implemented the paper "A Neural Algorithm for Artistic Style"   ● Replicated Figure.3 of the paper
+  desc: ● Implemented the paper "A Neural Algorithm for Artistic Style"                               ● Replicated Figure.3 of the paper
 
 
 - name: Credit Card Fraud Detection
@@ -15,7 +15,7 @@
   gh_user: sharmasapna
   repo: credit-card-fraud-detection
   img: /static/assets/img/landing/python.png
-  desc: ● Explored models like Decision Trees, Logistic Regression, SVM, XGBoost, Random Forest, ANN   ● Best Performance achieved by XGBoost classifier with a Precision of 0.36, Recall of 0.78, f1-score of 0.49
+  desc: ● Explored models like Decision Trees, Logistic Regression, SVM, XGBoost, Random Forest, ANN   ● XGBoost Classifier performed best with a Precision of 0.36, Recall of 0.78, f1-score of 0.49
 
 - name: Airbnb Analysis using Causal Modelling in Machine Learning
   i18n: jalpc
