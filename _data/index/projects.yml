@@ -7,7 +7,7 @@
   gh_user: sharmasapna
   repo: artistic-style-transfer-with-neural-net
   img: /static/assets/img/landing/python.png
-  desc: ● Implemented the paper "A Neural Algorithm for Artistic Style"                               ● Replicated Figure.3 of the paper
+  desc: ● Implemented the paper "A Neural Algorithm for Artistic Style"                               ● Use pre-trained VGG-19 model for reconstructing the style and content image
 
 
 - name: Credit Card Fraud Detection
