@@ -9,6 +9,13 @@
   img: /static/assets/img/landing/python.png
   desc: ● Demand Calculation and Capacity Planning"                                                 ● Time series Traffic forecasting
 
+- name: Microsoft Azure Data Fundamentals
+  i18n: jalpc
+  gh_user: sharmasapna
+  repo: 
+  img: /static/assets/img/landing/asazure.png
+  desc: ● https://www.credly.com/badges/be0edf1e-fe3c-4acf-96d5-e6fa0941a5f2/public_url
+
 - name: Built Data Warehouse for Pubmed Data
   i18n: jalpc
   gh_user: sharmasapna
