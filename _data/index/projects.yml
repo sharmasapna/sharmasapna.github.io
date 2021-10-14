@@ -99,8 +99,8 @@
   desc: Appliction to generate KPI of all Stations
   
   
-  
-  - name: Website:www.losefat.co.in
+
+- name: Website:www.losefat.co.in
   i18n: cpython
   gh_user: sharmasapna
   repo: mywebsite
