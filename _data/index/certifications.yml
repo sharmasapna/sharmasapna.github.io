@@ -3,12 +3,20 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
 
+- name: Microsoft Azure Data Fundamentals
+  i18n: jalpc
+  gh_user: sharmasapna
+  url: https://www.credly.com/badges/be0edf1e-fe3c-4acf-96d5-e6fa0941a5f2/public_url
+  img: /static/assets/img/landing/msazure.png
+  desc: ● Deep Learning.AI (Coursera) ● Skill Gained ● Core Data Concepts  ● Relational Databases ● Non-Relational Databases ● Data Warehouse Analytics
+  
+
 - name: Neural Networks and Deep Learning
   i18n: jalpc
   gh_user: sharmasapna
   url: https://coursera.org/share/6d1a9d38d68124c099788eede2a56100
   img: /static/assets/img/landing/coursera_icon.jpg
-  desc: ● Deep Learning.AI (Coursera) ● Skill Gained ● Artificial Neural Network  ● Backpropagatio ● Python Program ● Deep Learning
+  desc: ● Deep Learning.AI (Coursera) ● Skill Gained ● Artificial Neural Network  ● Backpropagation ● Python Program ● Deep Learning
   
  
 - name: The Data Scientist's Toolbox (02-12-2018)
@@ -38,3 +46,12 @@
   url: https://coursera.org/share/69b31010dcd7f4117eda89460a30a4c5
   img: /static/assets/img/landing/coursera_icon.jpg
   desc: ● Coursera - pwc (Coursera) ● Skill Gained ● Binary Classification ● Data Analysis ● Microsoft Excel ● Linear Regression
+  
+  Introduction to Search Engine Optimization
+- name:   Introduction to Search Engine Optimization
+  i18n: jalpc
+  gh_user: sharmasapna
+  url: https://coursera.org/share/2644bed4762a63201d695f9986dbf496
+  img: /static/assets/img/landing/coursera_icon.jpg
+  desc: ● Coursera - pwc (Coursera) ● Skill Gained ● Search Algorithm ● Search Engine Optimization ● Mathematical Optimization ● Semantics
+  
