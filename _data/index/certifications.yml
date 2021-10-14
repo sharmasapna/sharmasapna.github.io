@@ -1,10 +1,10 @@
-# projects section data
+# certifications section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Capacity Planning and Traffic Forecasting for Boston's Bluebikes
+- name: Deep Learning
   i18n: jalpc
   gh_user: sharmasapna
-  repo: Bluebike_Traffic_Forecasting
+  repo: www.  
   img: /static/assets/img/landing/python.png
-  desc: ● Demand Calculation and Capacity Planning"     
+  desc: ● Coursera - Deep Learning.AI    
