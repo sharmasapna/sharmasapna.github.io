@@ -7,19 +7,44 @@
   gh_user: sharmasapna
   url: https://coursera.org/share/6d1a9d38d68124c099788eede2a56100
   img: /static/assets/img/landing/coursera_icon.jpg
-  desc: ● Coursera - Deep Learning.AI (Coursera)
+  desc: ● Deep Learning.AI (Coursera)
   
 - name: Neural Networks and Deep Learning
   i18n: jalpc
   gh_user: sharmasapna
   url: https://coursera.org/share/6d1a9d38d68124c099788eede2a56100
   img: /static/assets/img/landing/coursera_icon.jpg
-  desc: ● Coursera - Deep Learning.AI (Coursera)
+  desc: ● Deep Learning.AI (Coursera) ● Skill Gained ● Artificial Neural Network  ● Backpropagatio ● Python Program ● Deep Learning
   
   
+- name: The Data Scientist's Toolbox (02-12-2018)
+  i18n: jalpc
+  gh_user: sharmasapna
+  url: https://coursera.org/share/6d1a9d38d68124c099788eede2a56100
+  img: /static/assets/img/landing/coursera_icon.jpg
+  desc: ● Johns Hopkins (Coursera) Skills Gained ● Data Science ● Github ● R Programming ● R Studio
+  
+    
 - name: Business Metrics for Data-Driven Companies
   i18n: jalpc
   gh_user: sharmasapna
   url: https://coursera.org/share/2140c23c1739705759330c4dea32612c
   img: /static/assets/img/landing/coursera_icon.jpg
   desc: ● Coursera - Duke University (Coursera) ● Skill Gained ● Data Analysis ● Business Analysis ● Business Analytics ● Business Process
+
+
+  
+- name: Problem Solving with Excel
+  i18n: jalpc
+  gh_user: sharmasapna
+  url: https://coursera.org/share/6cc50baeb31ee2d673d9e74c99a07334
+  img: /static/assets/img/landing/coursera_icon.jpg
+  desc: ● Coursera - pwc (Coursera) ● Skill Gained ● Data Analysis ● Microsoft Excel ● Pivot Table ● Data Cleansing
+
+
+- name: Mastering Data Analysis with Excel
+  i18n: jalpc
+  gh_user: sharmasapna
+  url: https://coursera.org/share/69b31010dcd7f4117eda89460a30a4c5
+  img: /static/assets/img/landing/coursera_icon.jpg
+  desc: ● Coursera - pwc (Coursera) ● Skill Gained ● Binary Classification ● Data Analysis ● Microsoft Excel ● Linear Regression
