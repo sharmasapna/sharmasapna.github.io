@@ -23,6 +23,12 @@
   name: Projects
   tpl: projects.html
   css: project
+  
+- id: certifications
+  i18n: nav.certifications
+  name: Certifications
+  tpl: certifications.html
+  css: certifications
 
 - id: links
   i18n: nav.link
