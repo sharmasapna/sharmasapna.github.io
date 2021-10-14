@@ -2,9 +2,9 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Deep Learning
+- name: Neural Networks and Deep Learning
   i18n: jalpc
   gh_user: sharmasapna
-  repo: www.  
-  img: /static/assets/img/landing/python.png
-  desc: ● Coursera - Deep Learning.AI    
+  repo: https://coursera.org/share/6d1a9d38d68124c099788eede2a56100
+  img: /static/assets/img/landing/coursera.png
+  desc: ● Coursera - Deep Learning.AI (Coursera)
