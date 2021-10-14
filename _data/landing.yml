@@ -28,7 +28,7 @@
   i18n: nav.certifications
   name: Certifications
   tpl: certifications.html
-  css: certifications
+  css: 
 
 - id: links
   i18n: nav.link
