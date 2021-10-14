@@ -48,7 +48,7 @@
 
                   {% elsif certificate.repo %}
 
-                  <a href="https://github.com/{{ certificate.gh_user }}/{{ certificate.repo }}" target="_blank"><span class="navy">{{ certificate.name }}</span></a>
+                  <a href="{{ certificate.gh_user }}/{{ certificate.repo }}" target="_blank"><span class="navy">{{ certificate.name }}</span></a>
 
                   {% else %}
 
@@ -64,11 +64,11 @@
 
                   {% if certificate.repo %}
 
-                  <div user="{{ certificate.gh_user }}" repo="{{ certificate.repo }}" class="ghbtn">
+                  <div user="certificate.repo" class="ghbtn">
 
-                      <a target="_blank" style="width: 65px;" href="https://github.com/{{ certificate.gh_user }}/{{ certificate.repo }}/stargazers" class="btn btn-white btn-xs star"><i class="fa fa-star"></i> ...</a>&emsp;&emsp;
+                      <a target="_blank" style="width: 65px;" href="{{certificate.repo}}" class="btn btn-white btn-xs star"><i class="fa fa-star"></i> ...</a>&emsp;&emsp;
 
-                      <a target="_blank" style="width: 65px;" href="https://github.com/{{ certificate.gh_user }}/{{ certificate.repo }}/network" class="btn btn-white btn-xs fork"><i class="fa fa-code-fork"></i> ...</a>
+                      <a target="_blank" style="width: 65px;" href="{{certificate.repo}}" class="btn btn-white btn-xs fork"><i class="fa fa-code-fork"></i> ...</a>
 
                       <div style="height: 10px;"></div>
 
@@ -136,7 +136,7 @@
 
                   {% elsif certificate.repo %}
 
-                  <a href="https://github.com/{{ certificate.gh_user }}/{{ certificate.repo }}" target="_blank"><span class="navy">{{ certificate.name }}</span></a>
+                  <a href="{{certificate.repo}}" target="_blank"><span class="navy">{{ certificate.name }}</span></a>
 
                   {% else %}
 
