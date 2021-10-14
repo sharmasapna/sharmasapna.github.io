@@ -8,7 +8,7 @@
   gh_user: sharmasapna
   repo: Bluebike_Traffic_Forecasting
   img: /static/assets/img/landing/python.png
-  desc: ● Demand Calculation and Capacity Planning"                                                 ● Time series Traffic forecasting
+  desc: ● Demand Calculation and Capacity Planning                                                  ● Time series Traffic forecasting
 
 
 - name: Built Data Warehouse for Pubmed Data
