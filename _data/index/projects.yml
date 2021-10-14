@@ -2,6 +2,7 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+
 - name: Capacity Planning and Traffic Forecasting for Boston's Bluebikes
   i18n: jalpc
   gh_user: sharmasapna
@@ -16,7 +17,6 @@
   repo: Pubmed_datawarehousing
   img: /static/assets/img/landing/mysql.png
   desc: ● Built relational database ,ERD and Snowflake Schema                                        ● Performed Data Mining and data visualizations using MySQL and R
-
 
 
 - name: Artistic Style Transfer with Neural Nets
