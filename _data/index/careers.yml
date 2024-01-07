@@ -1,6 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items  
 - name:
+    detail: CVS Health
+    i18n: company_a
+  desc:
+    detail: 
+    i18n: 
+  date: 
+    detail: Data Engineer
+    i18n: company_a_date
+  job:
+    detail: March-2022 - present
+    i18n: company_a_job
+  icon: fa-plus-square
+- name:
     detail: auxi.ai 
     i18n: company_a
   desc:
@@ -10,7 +23,7 @@
     detail: Machine Learning Intern
     i18n: company_a_date
   job:
-    detail: Working on LayoutGANs to to automate slide formatting and manual corrections in business presentations (01-02-2021 - present) 
+    detail: Working on LayoutGANs to to automate slide formatting and manual corrections in business presentations (2021-02-01 - 2021-05-01 ) 
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -64,7 +77,7 @@
     detail: 
     i18n: Northeastern University
   date:
-    detail: Pursuing  Masters in Data Science |Deep Learning |Machine Learning |       Linear Algebra and Probability | Introduction to Data Management and Processing |Analysis of Algorithms
+    detail: Masters in Data Science |Deep Learning |Machine Learning |       Linear Algebra and Probability | Introduction to Data Management and Processing |Analysis of Algorithms
     i18n: company_a_date
   job:
     detail: Student at Northeastern University
