@@ -1,6 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items  
 - name:
+    detail: Harrisburg University
+    i18n: company_a
+  desc:
+    detail: 
+    i18n: 
+  date: 
+    detail: PhD - Data Science
+    i18n: company_a_date
+  job:
+    detail: Jan-2025 - present
+    i18n: company_a_job
+  icon: fa-plus-square
+- name:
     detail: CVS Health
     i18n: company_a
   desc:
